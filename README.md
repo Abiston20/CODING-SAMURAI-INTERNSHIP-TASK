@@ -1,4 +1,4 @@
-# CODING SAMURAI INTERNSHIP TASK
+# CODING SAMURAI INTERNSHIP TASK 1
 
 This project was created as part of the **Coding Samurai Internship** tasks. It includes a To-Do App built using modern web technologies.
 
